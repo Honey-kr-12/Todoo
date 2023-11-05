@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Honey-kr-12/Todo/static/css/main.93bb5c04.css",
+    "main.js": "/Honey-kr-12/Todo/static/js/main.0d0865f0.js",
+    "index.html": "/Honey-kr-12/Todo/index.html",
+    "main.93bb5c04.css.map": "/Honey-kr-12/Todo/static/css/main.93bb5c04.css.map",
+    "main.0d0865f0.js.map": "/Honey-kr-12/Todo/static/js/main.0d0865f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93bb5c04.css",
+    "static/js/main.0d0865f0.js"
+  ]
+}
